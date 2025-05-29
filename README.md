@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-**STANCHOS/STANCHOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Stanzin Chosdan
 
-Somehow eager to learn programming and a CP, Cybersecurity, Web Development, and AI-ML Enthusiast!
+Someone eager to learn programming and a CP, Cybersecurity, Web Development, and AI-ML Enthusiast!
 
 *Currently pursuing my 2nd year of B.Tech in CSE at Delhi Technological University (DTU)*  
 <sub>(Mandatory notice: previously known as Delhi College of Engineering or DCE)</sub>
