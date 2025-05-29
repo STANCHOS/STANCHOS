@@ -16,8 +16,8 @@ AI-ML : Python
 
 Hobbies 
 
-Read books ( generic af but there are my genres : Non-fiction, Historical, Self Help , Science , Reference )
-More niche genre - Himalaya , Ladakh, Tibet, Buddhism, Central Asian , Indian History , Finance..... 
+<Read books ( generic af but there are my genres : Non-fiction, Historical, Self Help , Science , Reference )
+More niche genre - Himalaya , Ladakh, Tibet, Buddhism, Central Asian , Indian History , Finance..... />
 Anime and Manga veteran
 Photography
 Writing
