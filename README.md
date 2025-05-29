@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **STANCHOS/STANCHOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # Stanzin Chosdan
@@ -63,4 +62,3 @@ Picture world generator.
 
 Happy Repoxploring!
 
--->
