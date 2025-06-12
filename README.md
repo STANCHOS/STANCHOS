@@ -2,7 +2,7 @@
 
 # Stanzin Chosdan
 
-Someone eager to learn programming and a CP, Cybersecurity, Web Development, and AI-ML Enthusiast!
+Someone eager to learn programming and a Cybersecurity, Web Development, and AI-ML Enthusiast!
 
 *Currently pursuing my 2nd year of B.Tech in CSE at Delhi Technological University (DTU)*  
 <sub>(Mandatory notice: previously known as Delhi College of Engineering or DCE)</sub>
@@ -11,11 +11,13 @@ Someone eager to learn programming and a CP, Cybersecurity, Web Development, and
 
 ## List of Tech Stacks
 
-**Cybersecurity:**  
-- Bash  
-- Windows Powershell  
+**Cybersecurity:**  ( Kali Linux )
+- Bash   
 - Wireshark  
 - Burpsuite
+- Cryptography
+- Network Security
+- Reverse Engineering
 
 **Web Development:**  
 - HTML  
@@ -23,18 +25,19 @@ Someone eager to learn programming and a CP, Cybersecurity, Web Development, and
 - JavaScript
 
 **DSA:**  
-- C++  
+- C++
 - C
+- Java
 
-**AI-ML:**  
+**AI-ML:** 
 - Python
 
 ---
 
 ## Hobbies
 
-- Reading books (generic, but my genres: Non-fiction, Historical, Self-Help, Science, Reference)  
-  - More niche genres: Himalaya, Ladakh, Tibet, Buddhism, Central Asian, Indian History, Finance...
+- Reading books ( Non-fiction, Historical, Self-Help, Science, Finance, Reference)  
+  - More niche genres: Himalaya, Ladakh, Tibet, Buddhism, Central Asian, Indian History...
 - Anime and Manga veteran
 - Photography
 - Writing
@@ -45,16 +48,23 @@ Someone eager to learn programming and a CP, Cybersecurity, Web Development, and
 ## What will I do and am doing with my degree?
 
 **Cybersecurity:**  
-Currently have the HACKER role in EHAX DTU; participate in CTFs, cybersecurity conferences, and learning about the domain.
+Currently as HACKER in EHAX DTU; participate in CTFs, cybersecurity conferences, and learning about the domain.
 
+Certs and courses completed - PicoCTF, PWN Collge, HTB Basic Cybersecurity
 **Web Development:**  
-Personal website, Ladakh picture geo-locator.
+Projects - Personal website, Ladakh picture geo-locator and Family Portfolio.
+
+Certs and Courses completed - Meta Professional Front End Developer 
 
 **Competitive Programming (CP):**  
-Not going for any rated contests, but currently learning DSA to reach Div 1 within my 4th semester.
+Not going for any rated contests, but currently learning DSA to reach Div 2 within my 4th semester.
+
+Certs and Courses completed - Striver A2Z DSA Sheet ( All Data Structures ) , TLE Eliminator Sheet ( ) 
 
 **AI-ML:**  
 Picture world generator.
+
+Certs and courses completed - Machine Learning Specialization by Andrew NG, 
 
 ---
 
